@@ -1,4 +1,4 @@
-package org.sayem.api.weather;
+package org.istiaq.api.weather;
 
 import com.jayway.restassured.RestAssured;
 import org.testng.annotations.Test;
@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import static com.jayway.restassured.RestAssured.given;
 
 /**
- * Created by syed.sayem on 6/29/15.
+ * Created by istiaq on 9/20/16.
  */
 public class OpenWeatherMap {
 

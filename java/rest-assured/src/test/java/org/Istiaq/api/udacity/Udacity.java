@@ -1,4 +1,4 @@
-package org.sayem.api.udacity;
+package org.istiaq.api.udacity;
 
 import com.jayway.restassured.RestAssured;
 import com.jayway.restassured.path.json.JsonPath;
@@ -9,7 +9,7 @@ import java.util.List;
 import static com.jayway.restassured.RestAssured.given;
 
 /**
- * Created by syed.sayem on 6/29/15.
+ * Created by Istiaq on 10/5/16.
  */
 public class Udacity {
 
