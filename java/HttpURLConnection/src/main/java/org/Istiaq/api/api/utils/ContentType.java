@@ -1,7 +1,7 @@
-package org.sayem.api.api.utils;
+package org.istiaq.api.api.utils;
 
 /**
- * Created by syed.sayem on 6/26/15.
+ * Created by istiaq on 6/26/15.
  */
 
 public enum ContentType {

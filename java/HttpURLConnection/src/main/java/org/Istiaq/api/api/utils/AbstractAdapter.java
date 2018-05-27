@@ -1,4 +1,4 @@
-package org.sayem.api.api.utils;
+package org.istiaq.api.api.utils;
 
 
 import com.google.gson.Gson;
@@ -15,9 +15,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by syed.sayem on 6/26/15.
- */
+
 
 public class AbstractAdapter {
 

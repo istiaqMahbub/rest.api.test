@@ -1,8 +1,6 @@
-package org.sayem.api.api.utils;
+package org.istiaq.api.api.utils;
 
-/**
- * Created by syed.sayem on 6/26/15.
- */
+
 public enum MethodType {
 
     GET("GET"),

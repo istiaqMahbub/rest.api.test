@@ -1,8 +1,6 @@
-package org.sayem.api.request;
+package org.istiaq.api.request;
 
-/**
- * Created by syed.sayem on 6/23/15.
- */
+
 public class PostRequest {
 
     private String name;

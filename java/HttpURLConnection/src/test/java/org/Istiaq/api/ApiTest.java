@@ -1,10 +1,10 @@
-package org.sayem.api;
+package org.istiaq.api;
 
-import org.sayem.api.api.utils.ContentType;
-import org.sayem.api.api.utils.PostAdapter;
-import org.sayem.api.api.utils.RestAdapter;
-import org.sayem.api.request.PostRequest;
-import org.sayem.api.response.PostResponse;
+import org.istiaq.api.api.utils.ContentType;
+import org.istiaq.api.api.utils.PostAdapter;
+import org.istiaq.api.api.utils.RestAdapter;
+import org.istiaq.api.request.PostRequest;
+import org.istiaq.api.response.PostResponse;
 import org.testng.annotations.Test;
 
 import java.io.IOException;

@@ -1,8 +1,6 @@
-package org.sayem.api.response;
+package org.istiaq.api.response;
 
-/**
- * Created by syed.sayem on 6/23/15.
- */
+
 public class PostResponse {
 
     private String userId;

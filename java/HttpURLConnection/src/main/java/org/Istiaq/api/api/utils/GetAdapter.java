@@ -1,4 +1,4 @@
-package org.sayem.api.api.utils;
+package org.istiaq.api.api.utils;
 
 import com.google.gson.Gson;
 
@@ -6,9 +6,6 @@ import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-/**
- * Created by syed.sayem on 6/26/15.
- */
 
 public class GetAdapter extends AbstractAdapter implements RestAdapter {
     private String name;
